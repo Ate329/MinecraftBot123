@@ -5,7 +5,7 @@ There might be a update later to add new function to let the bot can follow a sp
   
 (depending on whether I have the time, my exam is coming)
 
-# Command
+# Command (Type in the minecraft chat)
 Type ;pos in the server chat to show bot's coordinates.   
   
 Type ;startafk to start anti afk kick.    
