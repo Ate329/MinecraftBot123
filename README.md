@@ -15,8 +15,28 @@ Type ;startafk to start anti afk kick.
 Type ;stopafk to stop.    
   
 Type ;time ro check the current time in minecraft world.    
-  
- 
+
+# Functions
+Anti-afk    
+    
+Respond to simple messages    
+    
+Auto respawn    
+    
+Auto reconnecting to the servers    
+    
+Saying position   
+    
+Welcome and farewell players    
+    
+Game time checking    
+    
+Sending messages when players get damaged   
+    
+Sending messages about entity effetcs of players    
+    
+and so on......
+
 # Server List 
 Go to ServerList.txt and add servers (cracked).
 
