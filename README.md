@@ -52,7 +52,7 @@ tkinter
 javascript    
     
 
-# Thanks to
+# Based on
 Mineflayer: https://mineflayer.prismarine.js.org/#/  
   
 YTFort/24-Aternos: https://github.com/YTFort/24-Aternos/
