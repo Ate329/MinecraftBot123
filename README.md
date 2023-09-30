@@ -1,5 +1,5 @@
 # MinecraftBot123
-A minecraft bot with several functions eg. anti afk kick, raining detection, damage dection, welcome other players and also some basic(toxic) chat event.
+A minecraft bot with several functions eg. anti afk kick, raining detection, damage dection, welcome other players and also some basic chat event.
   
 There might be a update later to add new function to let the bot can follow a specific players and avoid obstacles in the future.  
     
