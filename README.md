@@ -41,8 +41,6 @@ and so on......
 Go to ServerList.txt and add servers (cracked).
 
 # Libraries
-os    
-    
 threading   
     
 webbrowser    
