@@ -4,8 +4,6 @@ A minecraft bot with several functions eg. anti afk kick, raining detection, dam
 There might be a update later to add new function to let the bot can follow a specific players and avoid obstacles in the future.  
     
 (depending on whether I have the time, my exam is coming)
-    
-The programme does not have any licenses.
 
 # Command (Type in the minecraft chat)
 Type ;pos in the server chat to show bot's coordinates.   
