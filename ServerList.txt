@@ -1,0 +1,3 @@
+host: "VIDEOTESTX.aternos.me",
+port: "32117",
+username: "24ATERNOSBOT"
