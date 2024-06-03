@@ -3,7 +3,7 @@ A minecraft bot with several functions eg. anti afk kick, raining detection, dam
 
 **Any pull requests are welcome.**
 
-# Command (Type in the minecraft chat)
+# Command (type in the minecraft chat)
 Type ;pos in the server chat to show bot's coordinates.   
   
 Type ;startafk to start anti afk kick.    
