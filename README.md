@@ -1,9 +1,7 @@
 # MinecraftBot123
 A minecraft bot with several functions eg. anti afk kick, raining detection, damage dection, welcome other players and also some basic chat event.
-  
-There might be a update later to add new function to let the bot can follow a specific players and avoid obstacles in the future.  
-    
-(depending on whether I have the time, my exam is coming)
+
+**Any pull requests are welcome.**
 
 # Command (Type in the minecraft chat)
 Type ;pos in the server chat to show bot's coordinates.   
@@ -35,6 +33,12 @@ Sending messages about entity effetcs of players
     
 and so on......
 
+# To-Do
+This repository was created a long time ago but for some reasons it started being forked by people.  
+Therefore, I guess I am going to start updating this repository if I have time.  
+
+ - [ ] Allows the bot to follow a specific players and avoid obstacles.  
+
 # Server List 
 Go to ServerList.txt and add servers (cracked).
 
@@ -50,7 +54,7 @@ tkinter
 javascript    
     
 
-# Based on
-Mineflayer: https://mineflayer.prismarine.js.org/#/  
+# Thanks to
+[Mineflayer](https://mineflayer.prismarine.js.org) 
   
-YTFort/24-Aternos: https://github.com/YTFort/24-Aternos/
+[YTFort/24-Aternos](https://github.com/YTFort/24-Aternos/)
