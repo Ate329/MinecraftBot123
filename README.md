@@ -55,6 +55,6 @@ javascript
     
 
 # Thanks to
-[Mineflayer](https://mineflayer.prismarine.js.org) 
+[Mineflayer](https://github.com/PrismarineJS/mineflayer)  
   
 [YTFort/24-Aternos](https://github.com/YTFort/24-Aternos/)
