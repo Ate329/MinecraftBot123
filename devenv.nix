@@ -5,7 +5,11 @@
   env.GREET = "devenv";
 
   # https://devenv.sh/packages/
-  packages = [ pkgs.git ];
+  packages = with pkgs; [ 
+    git 
+    tk
+    python311Packages.tkinter
+  ];
   cachix.enable = false;
   # https://devenv.sh/scripts/
 
@@ -26,8 +30,16 @@
 
   # https://devenv.sh/languages/
   languages.nix.enable = true;
+  languages.javascript = {
+    enable = true;
+    npm = {
+      enable = true;
+      install.enable = true;
+    };
+  };
   languages.python = {
     enable = true;
+    package = pkgs.python311Full;
     poetry = {
       enable = true;
       activate.enable = true;
