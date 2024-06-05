@@ -52,7 +52,10 @@ configparser
 tkinter   
     
 javascript    
-    
+
+## Special instructions for using devenv
+You should run `npm install` first to install all necessary dependencies.
+JsPyBridge should have provided a workaround, but perhaps due to NixOS peculiarities it may not work.
 
 # Thanks to
 [Mineflayer](https://github.com/PrismarineJS/mineflayer)  
