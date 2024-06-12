@@ -1,4 +1,15 @@
-from lib.ui import create_ui
+from lib import ui
 
-if __name__ == "__main__":
-    create_ui()
+while True:
+    choice = input("CLI or Tkinter?")
+    
+    if choice.lower() == "cli":
+        ui.create_ui()
+        break
+    
+    elif choice.lower() == "tkinter":
+        ui.cli_interface()
+        break
+    
+    else:
+        print("Invalid choice, choose again.")
