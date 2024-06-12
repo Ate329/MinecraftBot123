@@ -67,3 +67,7 @@ def stop_bot():
         os.system('pkill -f node')  # Force kill the node process on Linux
     else:
         print(f"Unsupported OS: {current_os}. Please terminate the Node.js process manually.")
+
+if __name__ == "__main__":
+    print("You are not suppose to run this module individually")
+    

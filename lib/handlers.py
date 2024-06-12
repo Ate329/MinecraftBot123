@@ -118,3 +118,7 @@ def setup_handlers(bot, config):
     def on_chest_lid_move(this, block, isOpen, *args):
         action = "open" if isOpen else "close"
         bot.chat(f"Hey, did someone just {action} a chest?")
+
+if __name__ == "__main__":
+    print("You are not suppose to run this module individually")
+    
