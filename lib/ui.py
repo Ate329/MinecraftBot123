@@ -51,4 +51,4 @@ def open_based_on():
     webbrowser.open('https://github.com/YTFort/24-Aternos')
 
 def open_github_page():
-    webbrowser.open('https://github.com/Ateee329')
+    webbrowser.open('https://github.com/Ate329')
